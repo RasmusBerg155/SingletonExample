@@ -5,7 +5,7 @@ public class Singleton {
 
     public String s;
 
-    private Singleton(){
+    Singleton(){
         s = "Hello I am a string part of Singleton class";
     }
 
